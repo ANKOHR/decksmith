@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+ds-audit.jsonl
+de-prompt.txt
+de-launch.py
+de-codex.log
+*.log
+

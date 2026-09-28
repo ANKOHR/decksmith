@@ -1,0 +1,22 @@
+name: Field Notes
+palette:
+  ink: "#24343A"
+  teal: "#2C6E73"
+  amber: "#E5A94F"
+  rust: "#A85D46"
+  paper: "#F8F6F1"
+  white: "#FFFFFF"
+type_scale:
+  title: 62px
+  section: 46px
+  heading: 27px
+  body: 25px
+  caption: 13px
+spacing_grid_px: 8
+slide_types:
+  title: large title, claim, evidence footer
+  section: section heading, claim, optional figure
+  evidence: claim, computed figures, source footer
+  chart: claim, inline SVG chart, source footer
+  comparison: paired figures in a two-column comparison
+  closing: action statement, uncertainty context, source footer
