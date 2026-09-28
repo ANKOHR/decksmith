@@ -1,0 +1,4 @@
+Pytest: 22 passed
+Tested local implementation commit: c2de749c7faa633ea35aab79ba54004592995f50
+
+Decksmith is implemented as a deterministic Python CLI that generates explicitly synthetic fixture packs, plans a 12-slide argument arc, computes named figures from CSV evidence, and creates labelled SVG charts directly from those tables. It assembles an offline keyboard-navigable HTML deck and Markdown regeneration source, verifies slide claims and planted uncertainty against fixture files, records CLI runs in a JSON Lines audit log, and documents the honesty boundary, computation catalogue, and theme. The test suite covers component behavior, CLI subcommands, evidence failures, and byte-identical end-to-end rebuilds.
